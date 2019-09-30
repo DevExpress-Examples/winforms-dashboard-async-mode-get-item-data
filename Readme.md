@@ -13,7 +13,7 @@ The labels at the top display the data row count for the specified dashboard ite
 
 API in this example:
 
-* [DashboardViewer.AsyncMode](xref:DevExpress.DashboardWin.DashboardViewer.AsyncMode). Switch to asynchronous mode. The property is set in the **InitializeComponent** method.
+* [DashboardViewer.AsyncMode](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.AsyncMode). Switch to asynchronous mode. The property is set in the **InitializeComponent** method.
 * [DashboardViewer.GetItemDataAsync](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.GetItemDataAsync(System.String)) method. Gets data displayed within a dashboard item, asynchronously.
 * [DashboardViewer.Initialized](https:/docs.devexpress.devx/Dashboard/DevExpress.DashboardWin.DashboardViewer.Initialized) event. Handle this event to perform asynchronous tasks on the first load.
 
