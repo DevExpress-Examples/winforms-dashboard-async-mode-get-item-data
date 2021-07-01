@@ -1,9 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
+
 * [Form1.cs](./CS/ViewerForm1.cs) (VB: [Form1.vb](./VB/ViewerForm1.vb))
 <!-- default file list end -->
 
-# How to Get Dashboard Item Data Asynchronously
+# Dashboard for WinForms - How to get dashboard item data asynchronously
 
 This example demonstrates how to get the data displayed in the specified dashboard item asynchronously when the dashboard is loaded.
 
