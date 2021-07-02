@@ -24,6 +24,6 @@ API in this example:
 
 ## More Examples
 
-- [Dashboard Viewer: How to Get FIlter Values and Set Master Filter Asynchronously](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-random-filter)
-- [Dashboard Viewer: How to Invoke the Data Inspector Asynchronously When the Dashboard is Loaded](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-show-data-inspector)
-- [Dashboard Viewer: How to Create a Slide Show with Asynchronous Maximize and Restore Methods](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-maximize-slide-show)
+- [Dashboard for WinForms - How to get filter values and set Master Filter asynchronously](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-random-filter)
+- [Dashboard for WinForms - How to invoke the Data Inspector asynchronously when the Dashboard is loaded](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-show-data-inspector)
+- [Dashboard for WinForms - How to create a slide show with asynchronous Maximize and Restore methods](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-maximize-slide-show)
