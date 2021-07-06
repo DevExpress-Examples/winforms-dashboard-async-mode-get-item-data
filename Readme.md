@@ -6,13 +6,13 @@
 
 # Dashboard for WinForms - How to get dashboard item data asynchronously
 
-This example demonstrates how to get the data displayed in the specified dashboard item asynchronously when the dashboard is loaded.
+This example demonstrates how to get the data displayed in the dashboard item asynchronously when the dashboard is loaded.
 
 The labels at the top display the data row count for the specified dashboard item.
 
 ![screenshot](/images/screenshot.png)
 
-API in this example:
+## API
 
 * [DashboardViewer.AsyncMode](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.AsyncMode). Switches to the asynchronous mode. The property is set in the **InitializeComponent** method.
 * [DashboardViewer.GetItemDataAsync](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.GetItemDataAsync(System.String)) method. Gets data displayed within a dashboard item, asynchronously.
